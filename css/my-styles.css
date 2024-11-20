@@ -1,0 +1,57 @@
+
+        header h1 {
+        font-family: "scotch-deck-compressed", sans-serif;
+        font-weight: 600;
+        font-style: normal;
+        color: white; }
+
+        h2{
+        font-family: "scotch-deck-compressed", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+         }
+
+        article h4 {
+        text-align: center;}
+
+        section h3 {
+        font-family: "stolzl", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        text-align: center;
+        }
+
+        h5,h6{
+        font-family: "stolzl", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        }
+
+        article img {
+        max-width: 100%;
+        height:auto;}
+
+        nav, #feature, footer {
+        margin: 1%; }
+
+        nav li {
+        font-family: "stolzl", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        text-align: center;
+        display: inline;
+		padding: 0.5em;
+        color: white;}
+
+        * {
+            color: #2b2b2b;
+            box-sizing: border-box;}
+
+        .row-color-1 {
+            background-color:#E0DCDC;
+        }
+
+        p {    
+        font-family: "stolzl", sans-serif;
+        font-weight: 400;
+        font-style: normal;}
